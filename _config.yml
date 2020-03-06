@@ -1,6 +1,6 @@
 # Site
 title:              Kimcoding's Dev Note!
-bio:                Blog is incomplete. <a href="https://blog.naver.com/junghun1997">https://blog.naver.com/junghun1997</a>
+bio:                Blog is incomplete. Click <a href="https://blog.naver.com/junghun1997">https://blog.naver.com/junghun1997</a>
 description:        "Moon is a minimal, one column jekyll theme for your blog."
 reading_time:       true
 words_per_minute:   200
@@ -9,6 +9,7 @@ background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://kimcodingvv.github.io
+#http://localhost:4000/
 
 # Jekyll
 permalink:          /:title/
@@ -26,7 +27,7 @@ sass:
   style:            compressed
 
 # Comments
-disqus_shortname:   taylantatli
+disqus_shortname: kimcoding
 
 # Social
 # if you don't have any of social below, comment the line.
@@ -40,7 +41,7 @@ disqus_shortname:   taylantatli
 #email:
 twitter:            username
 facebook:           username
-github-url:         https://github.com/kimcodingvv
+github-url:         kimcodingvv
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username

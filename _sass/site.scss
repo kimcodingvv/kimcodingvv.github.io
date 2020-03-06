@@ -70,8 +70,9 @@ body {
 	align-items: center;
 }
 .container {
-	width: 36rem;
-	max-width: 550px;
+	width: 50rem; //36
+	height: 36rem; //x
+	max-width: 700px; //550
 	padding-right: 15px;
 	padding-left: 15px;
 	@include center-block();
@@ -101,8 +102,8 @@ body {
 	}
 }
 .wrapper {
-	width: 80%;
-	max-width: 1300px;
+	width: 70%;
+	max-width: 1500px;
 	margin: 4rem auto;
 	background: $white;
 	color: $color_tuatara;
@@ -116,9 +117,28 @@ body {
 	    box-shadow: none;
 	}
 }
+
+.categorybox {
+	width: 15%;
+	background: $white;
+	color: $color_tuatara;
+	padding: 2em;
+	border-radius: 3px;
+	left: 86%;
+	top: 64px;
+	box-shadow: 0 0 10px 0 rgba($color_shark,0.3);
+	margin: auto;
+	position: fixed;
+	@media #{$small} {
+		width: 90%;
+		padding: 2em 0;
+		box-shadow: none;
+	}
+}
+
 #disqus_thread {
-	width: 80%;
-	max-width: 1300px;
+	width: 70%;
+	max-width: 1500px;
 	margin: -3rem auto 4rem;
 	background: $white;
 	color: $color_tuatara;

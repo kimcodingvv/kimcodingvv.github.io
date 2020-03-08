@@ -55,10 +55,4 @@
     {% capture feature %}{{ page.feature }}{% endcapture %}
     {% unless feature contains 'http://' or feature contains 'https://' %}{% capture feature %}{{ site.url }}/{{ feature }}{% endcapture %}{% endunless %}
     <style type="text/css">.feature {background-image:url({{ feature }});}</style>
-    <!-- Loading Page-->
-    <script>
-        $(window).load(function() {
-            $('#load').hide();
-        });
-    </script>
     {% endif %}

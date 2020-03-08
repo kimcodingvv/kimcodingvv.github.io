@@ -9,7 +9,7 @@ background:         'assets/img/wallpaper.webp'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:               https://kimcodingvv.github.io
- # http://localhost:4000/
+  #http://localhost:4000/
 
 # Jekyll
 permalink:          /:title/
@@ -33,7 +33,7 @@ disqus_shortname: kimcoding
 # if you don't have any of social below, comment the line.
 google:
   #plus:            #username
-  analytics:        kimcoding
+  analytics:        UA-159984814-1
   #verify:
   #ad-client:
   #ad-slot:

@@ -2,13 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5f2e02ed-c0e6-446d-9794-cee5c850b38d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/_posts/2020-02-03-BOJ-17435.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/categories/BOJ.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/head.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/head.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_includes/nav.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/nav.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/scripts.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/scripts.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/site.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/site.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/5.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2012-05-22-readability-post.md" beforeDir="false" afterPath="$PROJECT_DIR$/test_posts/2012-05-22-readability-post.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2012-05-23-readability-feature-post.md" beforeDir="false" afterPath="$PROJECT_DIR$/test_posts/2012-05-23-readability-feature-post.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2013-05-22-sample-post-images.md" beforeDir="false" afterPath="$PROJECT_DIR$/test_posts/2013-05-22-sample-post-images.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2013-06-25-video-post.md" beforeDir="false" afterPath="$PROJECT_DIR$/test_posts/2013-06-25-video-post.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2013-08-16-code-highlighting-post.md" beforeDir="false" afterPath="$PROJECT_DIR$/test_posts/2013-08-16-code-highlighting-post.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-08-10-mathjax-example.md" beforeDir="false" afterPath="$PROJECT_DIR$/test_posts/2015-08-10-mathjax-example.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-03-20-markdown-syntax.md" beforeDir="false" afterPath="$PROJECT_DIR$/test_posts/2016-03-20-markdown-syntax.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-03-21-moon-theme.md" beforeDir="false" afterPath="$PROJECT_DIR$/test_posts/2016-03-21-moon-theme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/categories/sample.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,10 +58,16 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/test_posts" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -69,7 +83,10 @@
       <workItem from="1583483166324" duration="1781000" />
       <workItem from="1583484961367" duration="28301000" />
       <workItem from="1583530945052" duration="4000" />
-      <workItem from="1583604119973" duration="5646000" />
+      <workItem from="1583604119973" duration="6251000" />
+      <workItem from="1583649268719" duration="16000" />
+      <workItem from="1583748023569" duration="2465000" />
+      <workItem from="1583772756458" duration="7049000" />
     </task>
     <servers />
   </component>
@@ -81,18 +98,18 @@
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state x="503" y="214" key="#Project_Structure/0.27.1920.1053@0.27.1920.1053" timestamp="1583482697569" />
-    <state x="684" y="310" key="FileChooserDialogImpl" timestamp="1583503694884">
+    <state x="684" y="310" key="FileChooserDialogImpl" timestamp="1583649281939">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state x="684" y="310" key="FileChooserDialogImpl/0.27.1920.1053@0.27.1920.1053" timestamp="1583503694884" />
+    <state x="684" y="310" key="FileChooserDialogImpl/0.27.1920.1053@0.27.1920.1053" timestamp="1583649281939" />
     <state x="479" y="187" width="962" height="732" key="SettingsEditor" timestamp="1583483246598">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state x="479" y="187" width="962" height="732" key="SettingsEditor/0.27.1920.1053@0.27.1920.1053" timestamp="1583483246598" />
-    <state x="589" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1583604120241">
+    <state x="589" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1583772756464">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state x="589" y="380" key="com.intellij.ide.util.TipDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1583604120241" />
+    <state x="589" y="380" key="com.intellij.ide.util.TipDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1583772756464" />
     <state x="473" y="42" width="974" height="1020" key="find.popup" timestamp="1583639900365">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>

@@ -1,6 +1,7 @@
 # kimcodingvv.github.io
----
-## Kimcoding's Dev Note!
+<br/>
+
+### Kimcoding's Dev Note!
 <br/>
 
 #### Jekyll theme based by 'Moon'

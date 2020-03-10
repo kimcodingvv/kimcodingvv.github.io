@@ -1,0 +1,41 @@
+.grid{
+  display : grid;
+  grid-template-columns : repeat(6,1fr);
+}
+
+.grid-content{
+  grid-column: 2 / 6;
+}
+
+.grid-right {
+  grid-column : 6;
+}
+
+.grid-left{
+  grid-column : 1;
+}
+
+
+.categorybox {
+  width: 99%;
+  background: $white;
+  color: $color_tuatara;
+  padding: 2em;
+  //border-radius: 3px;
+  //box-shadow: 0 0 3px 0 rgba($color_shark,0.3); //10px
+  margin: 4rem 0;
+  margin-left : 1px;
+  margin-right : -2px;
+  @media #{$small} {
+    display : none;
+    width: 90%;
+    padding: 2em 0;
+    box-shadow: none;
+  }
+}
+
+.scroll-down{
+  text-align: center;
+  position: relative;
+  top : 100%;
+}

@@ -17,33 +17,47 @@ layout: compress
 {% include nav.html %}
 <!-- Header -->
 <header class="header" role="banner">
-    <div class="wrapper animated fadeIn">
-        <div class="content">
-            <div class="post-title {% if page.feature %} feature {% endif %}">
-                <h1>{{ page.title }}</h1>
-                <h4>{{ page.date | date_to_string }}</h4>
-                {% if site.reading_time %}
-                <p class="reading-time">
-                    <i class="fa fa-clock-o"></i>
-                    {% include read-time.html %}
-                </p><!-- /.entry-reading-time -->
+    <div class="post-title {% if page.feature %} feature animated fadeIn {% endif %}
+    {% if page.no-repeat %} feature-no-repeat {% endif %}">
+        <h1>{{ page.title }}</h1>
+        <h4>by {{page.author}} on {{ page.date | date: "%F %R"}}</h4>
+        <!--                {% if site.reading_time %}-->
+        <!--                <p class="reading-time">-->
+        <!--                    <i class="fa fa-clock-o"></i>-->
+        <!--                    {% include read-time.html %}-->
+        <!--                </p>&lt;!&ndash; /.entry-reading-time &ndash;&gt;-->
+        <!--                {% endif %}-->
+        {% if page.project %}
+        <a class="btn zoombtn" href="{{site.url}}/projects/">
+            {% else %}
+            <a class="btn zoombtn" href="{{site.url}}/posts/">
                 {% endif %}
-                {% if page.project %}
-                <a class="btn zoombtn" href="{{site.url}}/projects/">
-                    {% else %}
-                    <a class="btn zoombtn" href="{{site.url}}/posts/">
-                        {% endif %}
-                        <i class="fa fa-chevron-left"></i>
-                    </a>
-            </div>
-            {{ content }}
-            <div class="entry-meta">
-                {% include meta.html %}
-            </div>
+                <i class="fa fa-chevron-left"></i>
+            </a>
+        </a>
+        <div class="scroll-down">
+            <a class="btn zoombtn scroll" type="button" href="#target">
+                <i class="fa fa-arrow-down"></i>
+            </a>
         </div>
     </div>
+    <div class="grid">
+        <div class="grid-left"></div>
+        <div class="grid-content">
+            <div class="wrapper" id="target">
+                <div class="content">
+                    <div class="post-content">{{ content }}</div>
+                    <div class="entry-meta">
+                        {% include meta.html %}
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="grid-right"></div>
+    </div>
     {% if page.comments and site.disqus_shortname %}
-    <section id="disqus_thread" class="animated fadeInUp"></section><!-- /#disqus_thread -->{% endif %}
+    <section id="disqus_thread" class="animated fadeInUp"></section>
+    <!-- /#disqus_thread -->{% endif %}
 </header>
 {% include scripts.html %}
 {% if site.mathjax == true %}

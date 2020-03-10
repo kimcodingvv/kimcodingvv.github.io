@@ -2,21 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5f2e02ed-c0e6-446d-9794-cee5c850b38d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/2020-02-03-BOJ-17435.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/categories/BOJ.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2020-01-26-BOJ-2305.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2020-02-25-Codeforces-Blue.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_sass/Kimcoding's css.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/categories/Algorithm.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/categories/Codeforces.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_includes/nav.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/nav.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/scripts.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/scripts.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/category.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/category.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_layouts/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2012-05-22-readability-post.md" beforeDir="false" afterPath="$PROJECT_DIR$/test_posts/2012-05-22-readability-post.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2012-05-23-readability-feature-post.md" beforeDir="false" afterPath="$PROJECT_DIR$/test_posts/2012-05-23-readability-feature-post.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2013-05-22-sample-post-images.md" beforeDir="false" afterPath="$PROJECT_DIR$/test_posts/2013-05-22-sample-post-images.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2013-06-25-video-post.md" beforeDir="false" afterPath="$PROJECT_DIR$/test_posts/2013-06-25-video-post.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2013-08-16-code-highlighting-post.md" beforeDir="false" afterPath="$PROJECT_DIR$/test_posts/2013-08-16-code-highlighting-post.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2015-08-10-mathjax-example.md" beforeDir="false" afterPath="$PROJECT_DIR$/test_posts/2015-08-10-mathjax-example.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2016-03-20-markdown-syntax.md" beforeDir="false" afterPath="$PROJECT_DIR$/test_posts/2016-03-20-markdown-syntax.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2016-03-21-moon-theme.md" beforeDir="false" afterPath="$PROJECT_DIR$/test_posts/2016-03-21-moon-theme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/categories/sample.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/page.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/page.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/post-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/post-list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/post.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/post.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/project.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/project.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-02-03-BOJ-17435.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-02-03-BOJ-17435.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/site.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/site.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/typography.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/typography.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/about/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/wallpaper(1).webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/posts/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/posts/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/projects/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_posts/2012-05-23-readability-feature-post.md" beforeDir="false" afterPath="$PROJECT_DIR$/test_posts/2012-05-23-readability-feature-post.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +97,7 @@
       <workItem from="1583604119973" duration="6251000" />
       <workItem from="1583649268719" duration="16000" />
       <workItem from="1583748023569" duration="2465000" />
-      <workItem from="1583772756458" duration="7049000" />
+      <workItem from="1583772756458" duration="53369000" />
     </task>
     <servers />
   </component>
@@ -118,9 +129,9 @@
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state x="624" y="252" key="run.anything.popup/0.27.1920.1053@0.27.1920.1053" timestamp="1583640576178" />
-    <state x="599" y="257" width="672" height="678" key="search.everywhere.popup" timestamp="1583514225362">
+    <state x="599" y="257" width="720" height="678" key="search.everywhere.popup" timestamp="1583833281360">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state x="599" y="257" width="672" height="678" key="search.everywhere.popup/0.27.1920.1053@0.27.1920.1053" timestamp="1583514225362" />
+    <state x="599" y="257" width="720" height="678" key="search.everywhere.popup/0.27.1920.1053@0.27.1920.1053" timestamp="1583833281360" />
   </component>
 </project>

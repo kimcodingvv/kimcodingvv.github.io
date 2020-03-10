@@ -29,3 +29,11 @@
 <!--    <div id="load">-->
 <!--        <img src="/assets/img/loading.gif" alt="loading">-->
 <!--    </div>-->
+    <script>
+        jQuery(document).ready(function($) {
+            $(".scroll").click(function(event){
+                event.preventDefault();
+                $('html,body').animate({scrollTop:$(this.hash).offset().top}, 700);
+            });
+        });
+    </script>

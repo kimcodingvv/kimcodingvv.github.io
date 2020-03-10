@@ -12,11 +12,14 @@ html {
 	@extend %extend1;
 }
 body {
+	position : relative;
+	min-height : 100%;
+	top : 0%;
 	@extend %extend1;
 	font-family: $font1;
 	@include font-rem($doc-font-size);
 	color: $color_tuatara;
-	background-color: white;  //$bodycolor
+	background-color: $white;  //$bodycolor
 	background-position: center center;
 	background-attachment: fixed;
 	@media #{$small} {
@@ -39,7 +42,7 @@ body {
 	width: 100%;
 	min-height: 300px;
 	text-align: left;
-	color: $white;
+	color: $color_tuatara; //$white
 	@media #{$small} {
 		display: block !important;
 	}
@@ -71,7 +74,7 @@ body {
 }
 .container {
 	width: 50rem; //36
-	height: 36rem; //x
+	height: 40rem; //x
 	max-width: 700px; //550
 	padding-right: 15px;
 	padding-left: 15px;
@@ -79,7 +82,7 @@ body {
 	background-color: $white;
 	color: $color_shark;
 	z-index: 1;
-	border-radius: 3px;
+	border-radius: 50%; //3px
 	box-shadow: 0 0 10px 0 rgba($color_shark,0.3);
 	@include transition(.5s);
 	@media #{$small} {
@@ -102,14 +105,14 @@ body {
 	}
 }
 .wrapper {
-	width: 70%;
-	max-width: 1500px;
+	width: 100%; //60%? 70%?
+	//max-width: 1500px;
 	margin: 4rem auto;
 	background: $white;
 	color: $color_tuatara;
 	padding: 2em;
 	border-radius: 3px;
-	box-shadow: 0 0 10px 0 rgba($color_shark,0.3);
+	box-shadow: 0 0 3px 0 rgba($color_shark,0.3); //10px;
 	@include transition(.5s);
 	@media #{$small} {
 		width: 90%;
@@ -118,33 +121,15 @@ body {
 	}
 }
 
-.categorybox {
-	width: 15%;
-	background: $white;
-	color: $color_tuatara;
-	padding: 2em;
-	border-radius: 3px;
-	left: 86%;
-	top: 64px;
-	box-shadow: 0 0 10px 0 rgba($color_shark,0.3);
-	margin: auto;
-	position: fixed;
-	@media #{$small} {
-		width: 90%;
-		padding: 2em 0;
-		box-shadow: none;
-	}
-}
-
 #disqus_thread {
-	width: 70%;
-	max-width: 1500px;
+	width: 60%;
+	//max-width: 1500px;
 	margin: -3rem auto 4rem;
 	background: $white;
 	color: $color_tuatara;
 	padding: 2em;
 	border-radius: 3px;
-	box-shadow: 0 0 10px 0 rgba($color_shark,0.3);
+	box-shadow: 0 0 3px 0 rgba($color_shark,0.3); //10px
 	@include transition(.5s);
 	@media #{$small} {
 		width: 90%;
@@ -213,32 +198,39 @@ header .entry-meta {
     text-align: right;
 }
 .feature {
+	position : relative;
+	height : 100%;
     @include transition(.5s);
     @media #{$small} {
         background-image: none !important;
     }
     @media #{$medium} {
         color: white;
-        padding: 4em;
-        margin-left: -4rem;
-        margin-right: -4rem;
-        margin-top: -2rem;
+        padding: 4em 0 4em 0;
+        //margin-left: -4rem;
+        //margin-right: -4rem;
+        //margin-top: -2rem;
         border-radius: 3px 3px 0 0;
         background-color: rgba($black, 0.6);
         background-blend-mode: multiply;
         background-position: center center;
     }
     @media #{$notsmall} {
-        color: white;
-        padding: 10em;
-        margin-left: -4rem;
-        margin-right: -4rem;
-        margin-top: -2rem;
+		color: white;
+        padding: 15em 0 15em 0; //15em;
+        //margin-left: -4rem;
+        //margin-right: -4rem;
+        //margin-top: -2rem;
         border-radius: 3px 3px 0 0;
         background-color: rgba($black, 0.6);
         background-blend-mode: multiply;
         background-position: center center;
     }
+}
+
+.feature-no-repeat{
+	background-size : cover;
+	background-repeat : no-repeat;
 }
 
 #load {

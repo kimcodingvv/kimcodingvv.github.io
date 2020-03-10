@@ -6,7 +6,7 @@ description:        "umm..."
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/profile.png'
-background:         'assets/img/wallpaper.webp'
+background:         #'assets/img/wallpaper.webp'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:               https://kimcodingvv.github.io
@@ -70,6 +70,9 @@ gems:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-gist
+  #- jekyll-bootstrap-sass
+#bootstrap:
+#   assets: true
 
 jekyll-mentions:
     base_url: https://github.com

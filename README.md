@@ -1,4 +1,18 @@
 # kimcodingvv.github.io
-Kimcoding's Dev Note!
+---
+## Kimcoding's Dev Note!
+<br/>
 
-ref https://github.com/TaylanTatli/Moon
+#### Jekyll theme based by 'Moon'
+---
+##### https://github.com/TaylanTatli/Moon
+
+
+<br/>
+
+#### Reference
+---
+
+##### [Jongwuner](https://github.com/jongwuner/jongwuner.github.io)  Code Window Shopping
+
+##### [Knowgari](http://blog.knowgari.com/make-category/)  Category Reference

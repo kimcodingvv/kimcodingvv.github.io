@@ -142,7 +142,7 @@ body {
 }
 
 #disqus_thread {
-  width: 66.6%;
+  width: 60%;
   //max-width: 1500px;
   margin: -3rem auto 4rem;
   background: $white;
@@ -152,6 +152,11 @@ body {
   box-shadow: 0 0 3px 0 rgba($color_shark, 0.3); //10px
   @include transition(.5s);
   @media #{$small} {
+    width: 90%;
+    padding: 2em 0;
+    box-shadow: none;
+  }
+  @media #{$medium} {
     width: 90%;
     padding: 2em 0;
     box-shadow: none;

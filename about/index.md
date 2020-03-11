@@ -56,15 +56,21 @@ feature : assets/img/post.webp
 
 <br/><br/>
 
-대학교 - 가톨릭대학교 컴공
+대학교 - 가톨릭대학교 컴공<br/>
+가톨릭대학교 알고리즘 소모임 ALCUK 4기 회장<br/><br/>
+
 </center>
-<div class="post-center">백준 - <a href="https://www.acmicpc.net/user/kimcoding">Kimcoding</a> / <a href="https://www.acmicpc.net/user/junghun1997">junghun1997</a></div>
+<div style="text-align : center">백준 - <a href="https://www.acmicpc.net/user/kimcoding">Kimcoding</a> / <a href="https://www.acmicpc.net/user/junghun1997">junghun1997</a></div>
 
-<div class="post-center">Codeforces - <a href="https://codeforces.com/profile/Kimcoding">Kimcoding</a></div>
+<div style="text-align : center">Codeforces - <a href="https://codeforces.com/profile/Kimcoding">Kimcoding</a></div>
 
-<div class="post-center">AtCoder - <a href="https://atcoder.jp/users/Kimcoding">Kimcoding</a></div>
+<div style="text-align : center">AtCoder - <a href="https://atcoder.jp/users/Kimcoding">Kimcoding</a></div>
 
-<div class="post-center">Github - <a href="https://github.com/kimcodingvv">kimcodingvv</a></div>
+<div style="text-align : center">LeetCode - <a href="https://leetcode.com/kimcoding/">Kimcoding</a></div>
+
+<div style="text-align : center">Algospot - <a href="https://algospot.com/user/profile/33810">junghun1997</a></div>
+
+<div style="text-align : center">Github - <a href="https://github.com/kimcodingvv">kimcodingvv</a></div>
 <br/>
 <center>
 아직 아는 것이 없어 github에 별거 없지만

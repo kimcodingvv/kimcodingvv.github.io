@@ -1,26 +1,28 @@
 .grid{
   display : grid;
-  grid-template-columns : repeat(6,1fr);
+  grid-template-columns : repeat(5,1fr);
+  .center{
+    grid-column : 2 / 5;
+  }
+  .right {
+    grid-column : 5;
+  }
+  .left{
+    grid-column : 1;
+  }
+  @media #{$small}{
+    display : block;
+  }
+  @media #{$medium}{
+    display : block;
+  }
 }
-
-.grid-content{
-  grid-column: 2 / 6;
-}
-
-.grid-right {
-  grid-column : 6;
-}
-
-.grid-left{
-  grid-column : 1;
-}
-
 
 .categorybox {
   width: 99%;
   background: $white;
   color: $color_tuatara;
-  padding: 2em;
+  padding: 0 4rem;
   //border-radius: 3px;
   //box-shadow: 0 0 3px 0 rgba($color_shark,0.3); //10px
   margin: 4rem 0;
@@ -35,7 +37,43 @@
 }
 
 .scroll-down{
+  //text-align: center;
+  position: absolute;
+  top : 90%;
+  left : 50%;
+  transform:translateX(-50%);
+}
+
+.feature-table-cell{
+  text-align :center;
+  display : table-cell;
+  vertical-align : middle;
+}
+
+.title-box{
+  position : relative;
+  height : 100%;
+  width : 100%;
+  display : table;
+}
+
+#load {
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  position: fixed;
+  display: block;
+  opacity: 0.8;
+  background: white;
+  z-index: 99;
   text-align: center;
-  position: relative;
-  top : 100%;
+}
+
+#load > img {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform : translate(-50%, -50%);
+  z-index: 100;
 }

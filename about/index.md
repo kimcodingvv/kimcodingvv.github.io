@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: about
 title: About me
 tags: [about]
 date: 2020-03-10 05:23

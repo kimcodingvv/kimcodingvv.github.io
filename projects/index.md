@@ -1,6 +1,6 @@
 ---
 layout: project
-title: All Projects
+title: No Project
 excerpt: "A List of Projects"
 comments: false
 feature: assets/img/post-list.webp

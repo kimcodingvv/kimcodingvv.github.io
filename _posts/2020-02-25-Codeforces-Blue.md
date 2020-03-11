@@ -8,6 +8,7 @@ comments : true
 date : 2020-02-25 05:40
 feature: https://i.imgur.com/RHbEV6r.png
 no-repeat : true
+author : Kimcoding
 ---
 
 
@@ -29,8 +30,7 @@ no-repeat : true
 
 <br/><br/>
 
-처음 코포 할 때는 1~2솔 정도 했었는데 한 달 전쯤부터 3솔을 하더니<br/>
-
+처음 코포 할 때는 1~2솔 정도 했었는데 한 달 전쯤부터 3솔을 하더니
 급발진으로 한 달 동안 350점 정도 올렸네요...<br/>
 
 슬슬 적응이 되는 것 같기도 하고 이렇게 설레발치다가 당장 며칠 뒤에 떨어질 것 같기도 하고...

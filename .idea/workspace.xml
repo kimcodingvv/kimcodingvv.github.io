@@ -2,32 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5f2e02ed-c0e6-446d-9794-cee5c850b38d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/2020-01-26-BOJ-2305.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2020-02-25-Codeforces-Blue.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_sass/Kimcoding's css.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/categories/Algorithm.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/categories/Codeforces.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_layouts/about.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/nav.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/nav.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/scripts.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/scripts.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_layouts/category.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/category.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/home.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_layouts/page.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/page.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_layouts/post-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/post-list.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_layouts/post.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/post.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_layouts/project.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/project.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-01-26-BOJ-2305.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-01-26-BOJ-2305.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_posts/2020-02-03-BOJ-17435.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-02-03-BOJ-17435.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-02-25-Codeforces-Blue.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-02-25-Codeforces-Blue.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/Kimcoding's css.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/Kimcoding's css.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_sass/site.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/site.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_sass/typography.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/typography.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/about/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/about/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/wallpaper(1).webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/posts/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/posts/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/categories/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/categories/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/projects/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/projects/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_posts/2012-05-23-readability-feature-post.md" beforeDir="false" afterPath="$PROJECT_DIR$/test_posts/2012-05-23-readability-feature-post.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tags/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tags/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,13 +61,16 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/_layouts" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/_layouts" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/test_posts" />
     </key>
@@ -97,7 +92,8 @@
       <workItem from="1583604119973" duration="6251000" />
       <workItem from="1583649268719" duration="16000" />
       <workItem from="1583748023569" duration="2465000" />
-      <workItem from="1583772756458" duration="53369000" />
+      <workItem from="1583772756458" duration="54206000" />
+      <workItem from="1583914049679" duration="14889000" />
     </task>
     <servers />
   </component>
@@ -117,10 +113,10 @@
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state x="479" y="187" width="962" height="732" key="SettingsEditor/0.27.1920.1053@0.27.1920.1053" timestamp="1583483246598" />
-    <state x="589" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1583772756464">
+    <state x="589" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1583914049431">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state x="589" y="380" key="com.intellij.ide.util.TipDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1583772756464" />
+    <state x="589" y="380" key="com.intellij.ide.util.TipDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1583914049431" />
     <state x="473" y="42" width="974" height="1020" key="find.popup" timestamp="1583639900365">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>

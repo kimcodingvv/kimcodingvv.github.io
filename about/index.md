@@ -7,6 +7,8 @@ comments: false
 feature : assets/img/post.webp
 ---
 
+![](https://i.imgur.com/TaMvq4h.png)<br/>
+
 <center>
 개발자를 꿈꾸는 대학생입니다<br/><br/>
 
@@ -81,3 +83,5 @@ feature : assets/img/post.webp
 
 블로그에 오신 분들 정말 감사합니다 ♥
 </center>
+
+![](https://media.giphy.com/media/1wpPlRwrnVeB8Q5wNG/giphy.gif)

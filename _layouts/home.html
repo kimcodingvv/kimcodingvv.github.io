@@ -10,7 +10,8 @@ layout: compress
     {% include head.html %}
     <style>
         body{
-            background-image: url('../assets/img/home_background.webp');
+            /*background-image: url('../assets/img/home_background.jpg');*/
+            background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('../assets/img/home_background.jpg');
             background-repeat : no-repeat;
             background-size : cover;
         }
@@ -38,13 +39,13 @@ layout: compress
                     {% include social-links.html %}
                   <hr class="hr-line">
                   <h3 class="title">
-                         <a class="btn zoombtn" href="{{ site.url }}/about">
+                         <a class="btn zoombtn" href="{{ site.url }}/about" style="font-weight : 400;">
                          About
                          </a>
-                         <a class="btn zoombtn" href="{{ site.url }}/posts">
+                         <a class="btn zoombtn" href="{{ site.url }}/posts" style="font-weight : 400;">
                          Posts
                          </a>
-                         <a class="btn zoombtn" href="{{ site.url }}/projects">
+                         <a class="btn zoombtn" href="{{ site.url }}/projects" style="font-weight : 400;">
                          Projects
                          </a>
                  </h3>

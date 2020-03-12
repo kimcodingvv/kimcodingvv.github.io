@@ -80,8 +80,8 @@ body {
 }
 
 .container {
-  width: 50rem; //36
-  height: 40rem; //x
+  width: 38rem; //36
+  height: 38rem; //x
   max-width: 700px; //550
   padding-right: 15px;
   padding-left: 15px;
@@ -99,9 +99,6 @@ body {
     top: 50%;
     transform : translate(-50%, -50%);
     box-shadow: none;
-  }
-  @media #{$medium} {
-    width: 100%;
   }
 }
 

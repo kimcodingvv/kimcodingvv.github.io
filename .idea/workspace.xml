@@ -2,10 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5f2e02ed-c0e6-446d-9794-cee5c850b38d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/_includes/catalog.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/nav(Moon).html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_sass/catalog.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_sass/nav(Moon).scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/site.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/site.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/about/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/nav.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/nav.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/scripts.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/scripts.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/category.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/category.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/page.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/page.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/post-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/post-list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/post.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/post.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-01-26-BOJ-2305.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-01-26-BOJ-2305.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/Kimcoding's css.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/etc.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/nav.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/nav.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/variables.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,6 +73,16 @@
       <recent name="$PROJECT_DIR$/test_posts" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration name="post.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/kimcodingvv.github.io/_layouts/post.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.post.html" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -80,7 +102,8 @@
       <workItem from="1583748023569" duration="2465000" />
       <workItem from="1583772756458" duration="54206000" />
       <workItem from="1583914049679" duration="15236000" />
-      <workItem from="1583959511515" duration="1821000" />
+      <workItem from="1583959511515" duration="14642000" />
+      <workItem from="1584037607189" duration="4966000" />
     </task>
     <servers />
   </component>
@@ -96,14 +119,30 @@
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state x="684" y="310" key="FileChooserDialogImpl/0.27.1920.1053@0.27.1920.1053" timestamp="1583649281939" />
+    <state width="1870" height="314" key="GridCell.Tab.0.bottom" timestamp="1584001129463">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1870" height="314" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1584001129463" />
+    <state width="1870" height="314" key="GridCell.Tab.0.center" timestamp="1584001129463">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1870" height="314" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1584001129463" />
+    <state width="1870" height="314" key="GridCell.Tab.0.left" timestamp="1584001129462">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1870" height="314" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1584001129462" />
+    <state width="1870" height="314" key="GridCell.Tab.0.right" timestamp="1584001129463">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1870" height="314" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1584001129463" />
     <state x="479" y="187" width="962" height="732" key="SettingsEditor" timestamp="1583483246598">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state x="479" y="187" width="962" height="732" key="SettingsEditor/0.27.1920.1053@0.27.1920.1053" timestamp="1583483246598" />
-    <state x="589" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1583959511924">
+    <state x="589" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1584037606807">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state x="589" y="380" key="com.intellij.ide.util.TipDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1583959511924" />
+    <state x="589" y="380" key="com.intellij.ide.util.TipDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1584037606807" />
     <state x="473" y="42" width="974" height="1020" key="find.popup" timestamp="1583639900365">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
@@ -112,9 +151,9 @@
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state x="624" y="252" key="run.anything.popup/0.27.1920.1053@0.27.1920.1053" timestamp="1583640576178" />
-    <state x="599" y="257" width="720" height="678" key="search.everywhere.popup" timestamp="1583833281360">
+    <state x="599" y="257" width="720" height="678" key="search.everywhere.popup" timestamp="1584041460508">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state x="599" y="257" width="720" height="678" key="search.everywhere.popup/0.27.1920.1053@0.27.1920.1053" timestamp="1583833281360" />
+    <state x="599" y="257" width="720" height="678" key="search.everywhere.popup/0.27.1920.1053@0.27.1920.1053" timestamp="1584041460508" />
   </component>
 </project>

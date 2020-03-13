@@ -1,70 +1,100 @@
-.nav-header{
-  position : fixed;
-  top : 2%;
-  left : 0%;
-  margin-left : 3em;
-}
-
-.nav-right{
-  position : fixed;
-  top : 2%;
-  right : 0%;
-  ul, li {
-    display: inline;
-    margin: 0 3em;
-    @media #{$medium}{
-      margin : 0 1em;
-    }
-  }
-}
-
-.nav-hr{
-  width : 100%;
-  position : fixed;
-  top : 7%;
-  height : 3px;
-  margin : 0;
-  @media (max-height : 30em){
-    top : 2.5em;
-  }
-}
-
-.navbar{
-  position : fixed;
-  z-index: 1000;
-  display : block;
-  font-weight : bold;
-  background-color: rgba($black, 0.5);
-  width : 100%;
+.nav-header {
+  position: fixed;
+  display : table;
+  top: 0%;
+  left: 0%;
   height : 7%;
-  min-height : 2.5em;
-  transition : all 0.4s;
-  a{
-    @include font-size(22);
-    color : white;
-    text-decoration : none;
-    &:hover{
-      color : red;
+  margin-left: 3%;
+  li {
+    display : table-cell;
+    vertical-align : middle;
+  }
+}
+
+.nav-right {
+  position: fixed;
+  top: 0%;
+  right: 0%;
+  height : 7%;
+  display : table;
+  width : 70%;
+  @media #{$medium}{
+    width : 60%;
+  }
+  ul{
+    padding :0;
+    text-align : right;
+    vertical-align : middle;
+    display: table-cell;
+    height : 7%;
+    margin: 0 2em;
+    @media #{$medium}{
+      margin: 0 0.5em;
     }
+  }
+  li{
+    display : inline;
+    margin: 0 2em;
+    @media #{$medium}{
+      margin: 0 .5em;
+      a{
+        @include font-size(14);
+      }
+    }
+  }
+}
+
+.nav-hr {
+  width: 100%;
+  position: fixed;
+  top: 7%;
+  height: 3px;
+  margin: 0;
+  @media (max-height: 30em) {
+    top: 2.5em;
+  }
+}
+
+.navbar {
+  position: fixed;
+  z-index: 1000;
+  display: block;
+  font-weight: bold;
+  background-color: rgba($black, 0.5);
+  width: 100%;
+  height: 7%;
+  min-height: 2.5em;
+  transition: all 0.4s;
+
+  a {
+    @include font-size(22);
+    color: white;
+    text-decoration: none;
+
+    &:hover {
+      color: red;
+    }
+
     @media #{$medium}{
       @include font-size(18);
     }
   }
+
   @media #{$small}{
-    display : none;
+    display: none;
   }
 }
 
-.nav-white{
+.nav-white {
   background-color: rgba($white, 0.8);
-  transition : all 0.4s;
+  transition: all 0.4s;
   //-webkit-transition : all 0.4s ease-out;
-  a{
-    color : black;
+  a {
+    color: black;
   }
 }
 
-.nav-hidden{
-  display : none;
+.nav-hidden {
+  display: none;
 }
 

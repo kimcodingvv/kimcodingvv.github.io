@@ -104,10 +104,10 @@
 .link-word{
   text-decoration : none;
   &:link {
-    color: white;
+    color: $white;
   }
   &:visited {
-    color: white;
+    color: $white;
   }
   &:hover {
     color: $red;

@@ -38,6 +38,9 @@ layout: compress
                     <i class="fa fa-chevron-left"></i>
                 </a>
             </a>
+            {% if page.lastupdate %}
+            <br/>
+            <h6>Last updated on {{page.lastupdate | date : "%F %R"}}</h6> {% endif %}
             {% if page.feature %}
             <a class="scroll scroll-down" type="button" href="#target">
                 <i class="fa fa-arrow-down"></i>
@@ -57,7 +60,7 @@ layout: compress
                 </div>
             </div>
         </div>
-        <div class="right"></div>
+        <div class="right">{% include catalog.html %}</div>
     </div>
     {% if page.comments and site.disqus_shortname %}
     <section id="disqus_thread" class="animated fadeInUp"></section>

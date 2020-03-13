@@ -18,15 +18,17 @@
   }
 }
 
-.categorybox {
+.grid-right-box {
   width: 100%;
   background-color : rgba($white , 0);
   color: $color_tuatara;
   padding: 4rem 20%;
-  //border-radius: 3px;
-  //box-shadow: 0 0 3px 0 rgba($color_shark,0.3); //10px
-  //margin: 4rem 0;
-  @media #{$small} {
+  a{
+    text-decoration : none;
+    font-weight : bold;
+    @include font-size(18);
+  }
+  @media #{$small, $medium} {
     display : none;
     width: 90%;
     padding: 2em 0;

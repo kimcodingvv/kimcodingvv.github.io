@@ -1,5 +1,5 @@
 <!-- JS -->
-<script src="{{ site.url }}/assets/js/jquery-1.12.0.min.js"></script>
+<script src="{{ site.url }}/assets/js/jquery-3.4.1.min.js"></script>
 <script src="{{ site.url }}/assets/js/jquery.dlmenu.min.js"></script>
 <script src="{{ site.url }}/assets/js/jquery.goup.min.js"></script>
 <script src="{{ site.url }}/assets/js/jquery.magnific-popup.min.js"></script>
@@ -38,11 +38,12 @@
 <!--    </div>-->
 <!-- Scorll -->
 <script>
-    var CategoryOffset = jQuery('#category').offset();
+    var GRbox = jQuery('#GRbox').offset();
     jQuery(document).ready(function ($) {
         $(".scroll").click(function (event) {
             event.preventDefault();
-            $('html,body').animate({scrollTop: $(this.hash).offset().top}, 700);
+            var target = $($.attr(this, 'href'));
+            $('html,body').animate({scrollTop: target.offset().top}, 700);
         });
         jQuery(window).scroll(function () {
             if (jQuery(document).scrollTop() > 200) {
@@ -55,13 +56,45 @@
             } else {
                 jQuery('nav').removeClass('nav-white');
             }
-            if (CategoryOffset) {
-                if (jQuery(document).scrollTop() > CategoryOffset.top) {
-                    jQuery('#category').addClass('grid-right-fixed');
+            if (GRbox) {
+                if (jQuery(document).scrollTop() > GRbox.top) {
+                    jQuery('#GRbox').addClass('grid-right-fixed');
                 } else {
-                    jQuery('#category').removeClass('grid-right-fixed');
+                    jQuery('#GRbox').removeClass('grid-right-fixed');
                 }
             }
         });
     });
 </script>
+
+<!-- jongwuner's catalog -->
+
+
+{% if page.catalog %}
+<script>
+    function generateCatalog (selector) {
+        if ('' == 'true') {
+            _containerSelector = 'div.content'
+        } else {
+            _containerSelector = 'div.content'
+        }
+
+        var P = $(_containerSelector),a,n,t,l,i,c;
+        a = P.find('h1,h2,h3,h4,h5,h6');
+
+        $(selector).html('');
+
+        a.each(function () {
+            n = $(this).prop('tagName').toLowerCase();
+            i = '#' + $(this).prop('id');
+            t = $(this).text();
+            c = $('<a href="'+i+'" rel="nofollow" class="scroll">'+t+'</a>');
+            l = $('<li class="'+n+'_nav"></li>').append(c);
+            $(selector).append(l);
+        });
+        return true;
+    }
+    generateCatalog(".catalog-body");
+</script>
+
+{% endif %}

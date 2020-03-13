@@ -4,7 +4,7 @@ title: About me
 tags: [about]
 date: 2020-03-10 05:23
 comments: false
-feature : assets/img/post.webp
+feature : assets/img/about.webp
 ---
 
 ![](https://i.imgur.com/TaMvq4h.png)<br/>

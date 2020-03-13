@@ -2,16 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5f2e02ed-c0e6-446d-9794-cee5c850b38d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/categorybox.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/categorybox.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/nav(Moon).html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/scripts.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/scripts.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/head.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/head.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_layouts/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/category.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/category.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_layouts/page.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/page.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/post-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/post-list.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_layouts/post.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/post.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/etc.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/etc.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/nav(Moon).scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/project.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/project.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-01-26-BOJ-2305.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-01-26-BOJ-2305.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-02-03-BOJ-17435.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-02-03-BOJ-17435.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +53,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/_layouts" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../WEB-ex-1" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -97,7 +97,7 @@
       <workItem from="1583772756458" duration="54206000" />
       <workItem from="1583914049679" duration="15236000" />
       <workItem from="1583959511515" duration="14642000" />
-      <workItem from="1584037607189" duration="17194000" />
+      <workItem from="1584037607189" duration="20477000" />
     </task>
     <servers />
   </component>
@@ -109,10 +109,10 @@
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state x="503" y="214" key="#Project_Structure/0.27.1920.1053@0.27.1920.1053" timestamp="1583482697569" />
-    <state x="684" y="310" key="FileChooserDialogImpl" timestamp="1583649281939">
+    <state x="684" y="310" key="FileChooserDialogImpl" timestamp="1584095306262">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state x="684" y="310" key="FileChooserDialogImpl/0.27.1920.1053@0.27.1920.1053" timestamp="1583649281939" />
+    <state x="684" y="310" key="FileChooserDialogImpl/0.27.1920.1053@0.27.1920.1053" timestamp="1584095306262" />
     <state width="1870" height="314" key="GridCell.Tab.0.bottom" timestamp="1584001129463">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>

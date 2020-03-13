@@ -17,8 +17,8 @@ layout: compress
 {% include nav.html %}
 <!-- Header -->
 <header class="header" role="banner">
-    <div class="post-title {% if page.feature %} title-box feature animated fadeIn {% endif %}">
-        {% if page.feature %} <div class="feature-table-cell"> {% endif %}
+    <div class="post-title {% if page.feature %} title-box feature {% endif %}">
+       <div class="feature-table-cell animated fadeIn">
         <h1>{{ page.title }}</h1>
             <a class="btn zoombtn" href="{{site.url}}">
                 <i class="fa fa-home"></i>
@@ -27,8 +27,8 @@ layout: compress
             <a class="btn zoombtn scroll scroll-down" type="button" href="#target">
                 <i class="fa fa-arrow-down"></i>
             </a>
+           {% endif %}
         </div>
-        {% endif %}
     </div>
     <div class="grid">
         <div class="left"></div>

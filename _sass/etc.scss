@@ -40,6 +40,24 @@
   top : 90%;
   left : 50%;
   transform:translateX(-50%);
+  i{
+    animation : target_image 2s;
+    animation-iteration-count : infinite;
+    font-size : 2em;
+    color : $white;
+    transition : all 0.5s;
+    &:hover{
+      color : $red;
+      transition : all 0.5s;
+    }
+  }
+}
+
+@keyframes target_image {
+  0% { transform: rotateY(0deg); }
+  50% { transform: rotateY(180deg) }
+  100% { transform: rotateY(0deg); }
+
 }
 
 .feature-table-cell{

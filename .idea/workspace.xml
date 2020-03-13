@@ -2,14 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5f2e02ed-c0e6-446d-9794-cee5c850b38d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/test_posts/2012-05-22-readability-post.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_posts/2012-05-23-readability-feature-post.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_posts/2013-05-22-sample-post-images.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_posts/2013-06-25-video-post.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_posts/2013-08-16-code-highlighting-post.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_posts/2015-08-10-mathjax-example.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_posts/2016-03-20-markdown-syntax.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_posts/2016-03-21-moon-theme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/page.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/page.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/post-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/post-list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/post.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/post.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/project.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/project.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/etc.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/etc.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,7 +94,7 @@
       <workItem from="1583772756458" duration="54206000" />
       <workItem from="1583914049679" duration="15236000" />
       <workItem from="1583959511515" duration="14642000" />
-      <workItem from="1584037607189" duration="23286000" />
+      <workItem from="1584037607189" duration="27351000" />
     </task>
     <servers />
   </component>

@@ -31,7 +31,7 @@ layout: compress
         <div class="left"></div>
         <div class="center">
             <div class="wrapper" id="target">
-                <div class="content animated fadeIn">
+                <div class="content wow fadeIn" data-wow-duration="1.0s">
                     {{ content }}
                 </div>
             </div>
@@ -45,6 +45,8 @@ layout: compress
 {% if site.mathjax == true %}
 <!-- MathJax -->
 <script async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_HTML-full"></script>
+<script src="{{ site.url }}/assets/js/wow.min.js"></script>
+<script type="text/javascript">(new WOW).init();</script>
 {% endif %}
 </body>
 </html>

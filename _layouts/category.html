@@ -44,7 +44,7 @@ layout: compress
                         {% for post in site.categories[category] %} <!-- 카테고리 조건 -->
                         {% if post.project == null %}
                         <ul>
-                            <li class="wow fadeIn" data-wow-duration="1.5s">
+                            <li class="wow fadeIn" data-wow-duration="1.0s">
                                 <a class="zoombtn" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
                                 <p>{{ post.excerpt }}</p>
                                 <p>{{ post.date | date_to_string }}</p>

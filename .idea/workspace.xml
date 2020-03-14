@@ -3,9 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="5f2e02ed-c0e6-446d-9794-cee5c850b38d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/scripts.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/scripts.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-01-26-BOJ-2305.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-01-26-BOJ-2305.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-02-03-BOJ-17435.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-02-03-BOJ-17435.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-02-25-Codeforces-Blue.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-02-25-CF-Blue.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-02-28-Codeforces-Round-623.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-02-28-CF-623.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_sass/etc.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/etc.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/typography.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/typography.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,7 +96,7 @@
       <workItem from="1584037607189" duration="50533000" />
       <workItem from="1584180258285" duration="5317000" />
       <workItem from="1584193029047" duration="1747000" />
-      <workItem from="1584204905780" duration="2057000" />
+      <workItem from="1584204905780" duration="22784000" />
     </task>
     <servers />
   </component>
@@ -174,13 +176,13 @@
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state x="473" y="42" width="974" height="1020" key="find.popup/0.27.1920.1053@0.27.1920.1053" timestamp="1583639900365" />
-    <state x="624" y="252" key="run.anything.popup" timestamp="1583640576178">
+    <state x="624" y="252" key="run.anything.popup" timestamp="1584215058843">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state x="624" y="252" key="run.anything.popup/0.27.1920.1053@0.27.1920.1053" timestamp="1583640576178" />
-    <state x="599" y="257" width="720" height="678" key="search.everywhere.popup" timestamp="1584125923705">
+    <state x="624" y="252" key="run.anything.popup/0.27.1920.1053@0.27.1920.1053" timestamp="1584215058843" />
+    <state x="599" y="257" width="720" height="678" key="search.everywhere.popup" timestamp="1584216203681">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state x="599" y="257" width="720" height="678" key="search.everywhere.popup/0.27.1920.1053@0.27.1920.1053" timestamp="1584125923705" />
+    <state x="599" y="257" width="720" height="678" key="search.everywhere.popup/0.27.1920.1053@0.27.1920.1053" timestamp="1584216203681" />
   </component>
 </project>

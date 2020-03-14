@@ -22,7 +22,7 @@
   width: 100%;
   background-color : rgba($white , 0);
   color: $color_tuatara;
-  padding: 4rem 4% 4rem 20%;
+  padding: 4rem 4% 4rem 10%;
   a{
     text-decoration : none;
     font-weight : bold;
@@ -38,8 +38,9 @@
 
 .grid-right-fixed{
   position: fixed;
-  top: 1%;
-  padding: 4rem 4%;
+  top: 0%;
+  padding: 4rem 2%;
+  width : 21.5%;
 }
 
 .scroll-down{

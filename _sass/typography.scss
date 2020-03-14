@@ -76,7 +76,10 @@ h3.title a {
 		}
 		p {
 			font-weight: lighter;
-			@include font-rem(13);
+			@include font-rem(18);
+			@media #{$small}{
+				@include font-rem(13);
+			}
 		}
 	}
 }

@@ -3,20 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="5f2e02ed-c0e6-446d-9794-cee5c850b38d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-01-26-BOJ-2305.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-01-26-BOJ-2305.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-02-03-BOJ-17435.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-02-03-BOJ-17435.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/category.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/home_background.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/placeholder-big.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/post/1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/profile.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/project.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/tag.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/categories/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/categories/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/projects/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tags/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tags/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/scripts.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/scripts.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/etc.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/etc.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/typography.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/typography.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,7 +94,7 @@
       <workItem from="1584037607189" duration="50533000" />
       <workItem from="1584180258285" duration="5317000" />
       <workItem from="1584193029047" duration="1747000" />
-      <workItem from="1584204905780" duration="939000" />
+      <workItem from="1584204905780" duration="2057000" />
     </task>
     <servers />
   </component>

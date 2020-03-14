@@ -5,7 +5,7 @@
 {% endcapture %}
 {% assign categories_list = site_categories | split:',' | sort %}
 
-<div class="grid-right-box wow fadeInRight" data-wow-duration="1.0s" id="GRbox">
+<div class="grid-right-box animated fadeInRight" id="GRbox">
     <h2> CATEGORY </h2>
     <ul>
         {% for item in (0..site.categories.size) %}{% unless forloop.last %}

@@ -3,7 +3,7 @@ layout: post
 title : "세그먼트 트리 (Segment Tree, 구간 트리)"
 excerpt : "세그먼트 트리를 알아보자!"
 date : 2020-01-23-16:19
-tags : [Segment Tree, Fenwick Tree, Lazy-propagation]
+tags : [Segment Tree, Fenwick Tree, Lazy Propagation]
 category : [Algorithm]
 comments : true
 author: Kimcoding

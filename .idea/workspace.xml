@@ -4,47 +4,7 @@
     <list default="true" id="5f2e02ed-c0e6-446d-9794-cee5c850b38d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/catalog.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/catalog.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/scripts.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/scripts.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-01-23-Segment-Tree.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-01-23-Segment-Tree.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-01-26-BOJ-1234.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-01-26-BOJ-1234.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-01-26-BOJ-2305.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-01-26-BOJ-2305.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-01-27-BOJ-15824.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-01-27-BOJ-15824.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-02-03-BOJ-17435.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-02-03-BOJ-17435.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-02-07-BOJ-4230.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-02-07-BOJ-4230.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-02-10-BOJ-18407.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-02-10-BOJ-18407.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-02-11-BOJ-16989.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-02-11-BOJ-16989.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-02-12-BOJ-17071.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-02-12-BOJ-17071.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-02-12-BOJ-17353.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-02-12-BOJ-17353.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-02-25-CF-Blue.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-02-25-CF-Blue.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-02-26-BOJ-18291.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-02-26-BOJ-18291.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-02-26-BOJ-7806.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-02-26-BOJ-7806.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-02-27-BOJ-12019.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-02-27-BOJ-12019.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-02-27-BOJ-14578.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-02-27-BOJ-14578.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-02-27-BOJ-15898.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-02-27-BOJ-15898.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-02-27-BOJ-17835.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-02-27-BOJ-17835.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-02-27-BOJ-2213.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-02-27-BOJ-2213.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-02-28-BOJ-14945.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-02-28-BOJ-14945.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-02-28-BOJ-18436.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-02-28-BOJ-18436.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-02-28-BOJ-8982.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-02-28-BOJ-8982.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-02-28-CF-623.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-02-28-CF-623.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-03-01-BOJ-10868.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-03-01-BOJ-10868.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-03-03-BOJ-2705.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-03-03-BOJ-2705.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-03-04-BOJ-16936.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-03-04-BOJ-16936.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-03-04-BOJ-2118.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-03-04-BOJ-2118.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-03-05-BOJ-13392.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-03-05-BOJ-13392.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-03-05-BOJ-14428.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-03-05-BOJ-14428.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-03-05-BOJ-14556.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-03-05-BOJ-14556.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-03-05-BOJ-1484.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-03-05-BOJ-1484.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_posts/2020-03-05-BOJ-1612.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-03-05-BOJ-1612.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-03-05-BOJ-3954.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-03-05-BOJ-3954.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-03-05-CF-Ozon-2020.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-03-05-CF-Ozon-2020.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-03-09-BOJ-15922.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-03-09-BOJ-15922.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-03-12-BOJ-12764.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-03-12-BOJ-12764.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-03-12-BOJ-2917.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-03-12-BOJ-2917.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-03-13-BOJ-13560.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-03-13-BOJ-13560.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-03-13-BOJ-3015.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-03-13-BOJ-3015.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -137,7 +97,7 @@
       <workItem from="1584256913540" duration="610000" />
       <workItem from="1584260452760" duration="9000" />
       <workItem from="1584282913415" duration="600000" />
-      <workItem from="1584285944811" duration="1599000" />
+      <workItem from="1584285944811" duration="5536000" />
     </task>
     <servers />
   </component>

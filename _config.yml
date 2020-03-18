@@ -8,7 +8,7 @@ words_per_minute:   200
 logo:               'assets/img/profile.webp'
 background:         #'assets/img/wallpaper.webp'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
-locale:             en_US
+locale:             "ko-KR"
 url:                https://kimcodingvv.github.io
   #http://localhost:4000/
 

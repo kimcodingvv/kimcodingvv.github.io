@@ -118,13 +118,12 @@ body {
 
 .wrapper {
   width: 100%; //60%? 70%?
-  //max-width: 1500px;
   margin: 4rem auto;
   background: $white;
   color: $color_tuatara;
   padding: 2em;
   border-radius: 3px;
-  box-shadow: 0 0 3px 0 rgba($color_shark, 0.3); //10px;
+  //box-shadow: 0 0 3px 0 rgba($color_shark, 0.3); //10px;
   @include transition(.5s);
   @media #{$small} {
     width: 90%;
@@ -140,13 +139,12 @@ body {
 
 #disqus_thread {
   width: 60%;
-  //max-width: 1500px;
   margin: -3rem auto 4rem;
   background: $white;
   color: $color_tuatara;
   padding: 2em;
   border-radius: 3px;
-  box-shadow: 0 0 3px 0 rgba($color_shark, 0.3); //10px
+  //box-shadow: 0 0 3px 0 rgba($color_shark, 0.3); //10px
   @include transition(.5s);
   @media #{$small} {
     width: 90%;

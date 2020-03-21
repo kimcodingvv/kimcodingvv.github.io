@@ -45,7 +45,7 @@ nvidia 드라이버 설치를 gnome tweak tool에서 설정해도 된다고 들�
 <br/>
 
 ```bash
-ubuntu-drivers devices
+$ ubuntu-drivers devices
 == /sys/devices/pci0000:00/0000:00:01.0/0000:01:00.0 ==
 modalias : pci:v000010DEd00001C8Dsv00001043sd000013B1bc03sc00i00
 vendor   : NVIDIA Corporation
@@ -64,13 +64,15 @@ driver   : xserver-xorg-video-nouveau - distro free builtin
 
 <br/>
 
-```bash
-sudo add-apt-repository ppa:graphics-drivers/ppa
-sudo apt update
-apt-cache search nvidia | grep nvidia-driver-440 // 설치 가능한 드라이버인가?
-sudo apt-get install nvidia-driver-440
-sudo reboot
+```shell
+$ sudo add-apt-repository ppa:graphics-drivers/ppa
+$ sudo apt update
+$ apt-cache search nvidia | grep nvidia-driver-440 // 설치 가능한 드라이버인가?
+$ sudo apt-get install nvidia-driver-440
+$ sudo reboot
 ```
+
+
 
 ---
 
@@ -100,7 +102,7 @@ sudo reboot
 
 <br/>
 
-## 3. 한영 전환
+## 3. 한영 키보드
 
 <br/>
 
@@ -110,7 +112,7 @@ UIM을 사용하고 있고 자세한 내용은 따로 올리겠습니다.
 
 <br/>
 
-**[우분투 한영 전환](https://kimcodingvv.github.io/Ubuntu-Hangul)**
+**[우분투 한글, 한영키](https://kimcodingvv.github.io/Ubuntu-Hangul)**
 
 
 
@@ -129,7 +131,7 @@ UIM을 사용하고 있고 자세한 내용은 따로 올리겠습니다.
 
 
 ```bash
-sudo apt install gnome-tweak-tool
+$ sudo apt install gnome-tweak-tool
 ```
 
 
@@ -143,7 +145,7 @@ sudo apt install gnome-tweak-tool
 <br/>
 
 ```bash
-sudo apt install terminator
+$ sudo apt install terminator
 ```
 
 <br/>
@@ -151,7 +153,7 @@ sudo apt install terminator
 **터미네이터 사용자 설정**
 
 ```bash
-gedit ~/.config/terminator/config
+$ gedit ~/.config/terminator/config
 ```
 
 <br/>
@@ -214,8 +216,8 @@ gedit ~/.config/terminator/config
 <br/>
 
 ```bash
-sudo apt-get install imwheel
-gedit ~/.imwheelrc // 스크롤 속도 설정
+$ sudo apt-get install imwheel
+$ gedit ~/.imwheelrc // 스크롤 속도 설정
 ```
 
 <br/>
@@ -233,7 +235,7 @@ None,      Down, Button5, 4
 **부팅 시에 imwheel 자동 실행**
 
 ```bash
-sudo gedit /etc/X11/imwheel/startup.conf
+$ sudo gedit /etc/X11/imwheel/startup.conf
 ```
 
 파일에서
@@ -247,7 +249,7 @@ IMWHEEL_START=0 -> IMWHEEL_START=1
 **수정한 내용 적용**
 
 ```bash
-imwheel -k
+$ imwheel -k
 ```
 
 
@@ -263,7 +265,7 @@ imwheel -k
 
 
 ```bash
-sudo apt-get install vim
+$ sudo apt-get install vim
 ```
 
 
@@ -277,7 +279,7 @@ sudo apt-get install vim
 <br/>
 
 ```bash
-sudo apt install chrome-gnome-shell
+$ sudo apt install chrome-gnome-shell
 ```
 
 <br/>

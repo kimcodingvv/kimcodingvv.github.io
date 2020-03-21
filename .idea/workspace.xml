@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="5f2e02ed-c0e6-446d-9794-cee5c850b38d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/categories/Ubuntu.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-02-11-BOJ-16989.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-02-11-BOJ-16989.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-03-04-BOJ-16936.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-03-04-BOJ-16936.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-03-05-BOJ-3954.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-03-05-BOJ-3954.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
   </component>
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
@@ -32,6 +41,9 @@
       </set>
     </option>
   </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="gp8r0xeo" />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
@@ -51,7 +63,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -103,6 +115,11 @@
       <workItem from="1584553456221" duration="2540000" />
       <workItem from="1584588404168" duration="635000" />
       <workItem from="1584647427464" duration="1665000" />
+      <workItem from="1584791009469" duration="72000" />
+      <workItem from="1584791088334" duration="10000" />
+      <workItem from="1584791122050" duration="36000" />
+      <workItem from="1584803760265" duration="615000" />
+      <workItem from="1584809151731" duration="2322000" />
     </task>
     <servers />
   </component>
@@ -166,14 +183,14 @@
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state width="1870" height="314" key="GridCell.Tab.2.right/0.27.1920.1053@0.27.1920.1053" timestamp="1584122173666" />
-    <state x="479" y="187" width="962" height="732" key="SettingsEditor" timestamp="1583483246598">
+    <state x="479" y="187" width="962" height="732" key="SettingsEditor" timestamp="1584791153544">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state x="479" y="187" width="962" height="732" key="SettingsEditor/0.27.1920.1053@0.27.1920.1053" timestamp="1583483246598" />
-    <state x="589" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1584647426418">
+    <state x="479" y="187" width="962" height="732" key="SettingsEditor/0.27.1920.1053@0.27.1920.1053" timestamp="1584791153544" />
+    <state x="589" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1584809215544">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state x="589" y="380" key="com.intellij.ide.util.TipDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1584647426418" />
+    <state x="589" y="380" key="com.intellij.ide.util.TipDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1584809215544" />
     <state x="674" y="466" width="572" height="174" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1584111911881">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>

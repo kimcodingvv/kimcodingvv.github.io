@@ -34,7 +34,7 @@ catalog : true
 <br/>
 
 ```shell
-sudo apt install uim
+$ sudo apt install uim
 ```
 
 ---

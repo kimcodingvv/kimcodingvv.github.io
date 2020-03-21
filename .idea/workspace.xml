@@ -12,6 +12,7 @@
     <list default="true" id="5f2e02ed-c0e6-446d-9794-cee5c850b38d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_posts/2020-03-22-Ubuntu-Initial-Setting.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-03-22-Ubuntu-Initial-Setting.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-03-22-Ubuntu-UIM.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-03-22-Ubuntu-UIM.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,7 +120,7 @@
       <workItem from="1584791088334" duration="10000" />
       <workItem from="1584791122050" duration="36000" />
       <workItem from="1584803760265" duration="615000" />
-      <workItem from="1584809151731" duration="5046000" />
+      <workItem from="1584809151731" duration="5206000" />
     </task>
     <servers />
   </component>

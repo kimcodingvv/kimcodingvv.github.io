@@ -44,7 +44,7 @@ nvidia 드라이버 설치를 gnome tweak tool에서 설정해도 된다고 들�
 
 <br/>
 
-```bash
+```shell
 $ ubuntu-drivers devices
 == /sys/devices/pci0000:00/0000:00:01.0/0000:01:00.0 ==
 modalias : pci:v000010DEd00001C8Dsv00001043sd000013B1bc03sc00i00
@@ -130,7 +130,7 @@ UIM을 사용하고 있고 자세한 내용은 따로 올리겠습니다.
 
 
 
-```bash
+```shell
 $ sudo apt install gnome-tweak-tool
 ```
 
@@ -144,7 +144,7 @@ $ sudo apt install gnome-tweak-tool
 
 <br/>
 
-```bash
+```shell
 $ sudo apt install terminator
 ```
 
@@ -152,7 +152,7 @@ $ sudo apt install terminator
 
 **터미네이터 사용자 설정**
 
-```bash
+```shell
 $ gedit ~/.config/terminator/config
 ```
 
@@ -215,7 +215,7 @@ $ gedit ~/.config/terminator/config
 
 <br/>
 
-```bash
+```shell
 $ sudo apt-get install imwheel
 $ gedit ~/.imwheelrc // 스크롤 속도 설정
 ```
@@ -234,7 +234,7 @@ None,      Down, Button5, 4
 
 **부팅 시에 imwheel 자동 실행**
 
-```bash
+```shell
 $ sudo gedit /etc/X11/imwheel/startup.conf
 ```
 
@@ -248,7 +248,7 @@ IMWHEEL_START=0 -> IMWHEEL_START=1
 
 **수정한 내용 적용**
 
-```bash
+```shell
 $ imwheel -k
 ```
 
@@ -264,7 +264,7 @@ $ imwheel -k
 
 
 
-```bash
+```shell
 $ sudo apt-get install vim
 ```
 
@@ -278,7 +278,7 @@ $ sudo apt-get install vim
 
 <br/>
 
-```bash
+```shell
 $ sudo apt install chrome-gnome-shell
 ```
 

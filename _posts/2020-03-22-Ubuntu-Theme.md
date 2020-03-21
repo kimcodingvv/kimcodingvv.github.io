@@ -20,7 +20,7 @@ catalog : true
 
 `Dash to Dock`을 사용하여 Dock을 쓰고 있었는데 어쩌다가 `Plank`를 알게 되었습니다.
 
-그래서 구글링을 하여 [감성 프로그래밍 - Plank](https://program다mingsummaries.tistory.com/359),  [감성 프로그래밍 - 테마 설정](https://programmingsummaries.tistory.com/360) 을 참고하여 `Plank`를 적용하다가 테마도 이뻐서 적용하게 되었습니다.
+그래서 구글링을 하여 [감성 프로그래밍 - Plank](https://programmingsummaries.tistory.com/359),  [감성 프로그래밍 - 테마 설정](https://programmingsummaries.tistory.com/360) 을 참고하여 `Plank`를 적용하다가 테마도 이뻐서 적용하게 되었습니다.
 
 
 

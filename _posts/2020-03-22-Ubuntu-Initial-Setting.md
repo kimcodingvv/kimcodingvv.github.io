@@ -40,7 +40,7 @@ catalog : true
 
 <br/>
 
-nvidia 드라이버 설치를 gnome tweak tool에서 설정해도 된다고 들었지만 터미널로 급하게 할 때가 있기 때문에...
+nvidia 드라이버 설치를 `gnome tweak tool`에서 설정해도 된다고 들었지만 터미널로 급하게 할 때가 있기 때문에...
 
 <br/>
 
@@ -60,7 +60,7 @@ driver   : xserver-xorg-video-nouveau - distro free builtin
 
 <br/>
 
-추천 드라이버가 nvidia-driver-440이라고 합니다. 5시간 전에는 435라고 했는데...?
+추천 드라이버가 `nvidia-driver-440`이라고 합니다. 5시간 전에는 435라고 했는데...?
 
 <br/>
 
@@ -108,11 +108,11 @@ $ sudo reboot
 
 
 
-UIM을 사용하고 있고 자세한 내용은 따로 올리겠습니다.
+`UIM`을 사용하고 있고 자세한 내용은 따로 올리겠습니다.
 
 <br/>
 
-**[우분투 한글, 한영키](https://kimcodingvv.github.io/Ubuntu-Hangul)**
+**[우분투 한글, 한영키](https://kimcodingvv.github.io/Ubuntu-UIM)**
 
 
 
@@ -334,7 +334,19 @@ $ sudo apt install chrome-gnome-shell
 
 ---
 
+<br/>
 
+## 11. 테마 설정
+
+<br/>
+
+
+
+**[우분투 꾸미기](https://kimcodingvv.github.io/Ubuntu-Theme/)**
+
+
+
+---
 
 <br/>
 

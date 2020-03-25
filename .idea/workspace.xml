@@ -9,7 +9,11 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5f2e02ed-c0e6-446d-9794-cee5c850b38d" name="Default Changelist" comment="" />
+    <list default="true" id="5f2e02ed-c0e6-446d-9794-cee5c850b38d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/categories/Google.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/scripts.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/scripts.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,7 +64,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -118,6 +122,8 @@
       <workItem from="1584803760265" duration="615000" />
       <workItem from="1584809151731" duration="7059000" />
       <workItem from="1584825228815" duration="2000" />
+      <workItem from="1584864125590" duration="145000" />
+      <workItem from="1585158859177" duration="2240000" />
     </task>
     <servers />
   </component>
@@ -129,10 +135,18 @@
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state x="503" y="214" key="#Project_Structure/0.27.1920.1053@0.27.1920.1053" timestamp="1583482697569" />
-    <state x="684" y="310" key="FileChooserDialogImpl" timestamp="1584260459570">
+    <state x="390" y="370" width="712" height="389" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585159170086">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state x="684" y="310" key="FileChooserDialogImpl/0.27.1920.1053@0.27.1920.1053" timestamp="1584260459570" />
+    <state x="390" y="370" width="712" height="389" key="#com.intellij.fileTypes.FileTypeChooser/0.27.1920.1053@0.27.1920.1053" timestamp="1585159170086" />
+    <state x="684" y="310" key="FileChooserDialogImpl" timestamp="1584864269481">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="684" y="310" key="FileChooserDialogImpl/0.27.1920.1053@0.27.1920.1053" timestamp="1584864269481" />
+    <state x="0" y="64" width="1910" height="1001" key="FileDocumentManager.FileCacheConflict" timestamp="1585159257978">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="0" y="64" width="1910" height="1001" key="FileDocumentManager.FileCacheConflict/0.27.1920.1053@0.27.1920.1053" timestamp="1585159257978" />
     <state width="1870" height="314" key="GridCell.Tab.0.bottom" timestamp="1584122173662">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
@@ -181,14 +195,14 @@
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state width="1870" height="314" key="GridCell.Tab.2.right/0.27.1920.1053@0.27.1920.1053" timestamp="1584122173666" />
-    <state x="479" y="187" width="962" height="732" key="SettingsEditor" timestamp="1584791153544">
+    <state x="479" y="187" width="962" height="732" key="SettingsEditor" timestamp="1585161875284">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state x="479" y="187" width="962" height="732" key="SettingsEditor/0.27.1920.1053@0.27.1920.1053" timestamp="1584791153544" />
-    <state x="589" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1584825228427">
+    <state x="479" y="187" width="962" height="732" key="SettingsEditor/0.27.1920.1053@0.27.1920.1053" timestamp="1585161875284" />
+    <state x="589" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1584864125814">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state x="589" y="380" key="com.intellij.ide.util.TipDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1584825228427" />
+    <state x="589" y="380" key="com.intellij.ide.util.TipDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1584864125814" />
     <state x="674" y="466" width="572" height="174" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1584820004268">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>

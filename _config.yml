@@ -74,7 +74,7 @@ gems:
 #bootstrap:
 #   assets: true
 
-paginate : 10
+paginate : 15
 paginate_path: "/posts/:num/"
 
 jekyll-mentions:

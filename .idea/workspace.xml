@@ -10,14 +10,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5f2e02ed-c0e6-446d-9794-cee5c850b38d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_includes/pagination.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/post-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/post-list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/print.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/print.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/posts/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/posts/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -130,7 +124,7 @@
       <workItem from="1584864125590" duration="145000" />
       <workItem from="1585158859177" duration="2309000" />
       <workItem from="1585194169773" duration="1563000" />
-      <workItem from="1585317113863" duration="9018000" />
+      <workItem from="1585317113863" duration="9153000" />
     </task>
     <servers />
   </component>

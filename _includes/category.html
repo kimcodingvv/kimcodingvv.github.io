@@ -6,6 +6,10 @@
 {% assign categories_list = site_categories | split:',' | sort %}
 
 <div class="grid-right-box animated fadeInRight" id="GRbox">
+    <form class="search-form" action="/search" method="get">
+        <button class="btn zoombtn" type="submit"><i class="fa fa-search"></i></button>
+        <input type="text" id="search-box" name="query">
+    </form>
     <h2> CATEGORY </h2>
     <ul>
         {% for item in (0..site.categories.size) %}{% unless forloop.last %}

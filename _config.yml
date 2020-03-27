@@ -69,9 +69,13 @@ gems:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-gist
+  - jekyll-paginate
   #- jekyll-bootstrap-sass
 #bootstrap:
 #   assets: true
+
+paginate : 10
+paginate_path: "/posts/:num/"
 
 jekyll-mentions:
     base_url: https://github.com

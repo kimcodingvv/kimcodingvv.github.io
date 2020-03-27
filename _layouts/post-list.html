@@ -18,7 +18,7 @@ layout: compress
 <!-- Header -->
 <header class="header" role="banner">
     <div class="post-title {% if page.feature %} title-box feature {% else %} title-no-feature {% endif %}">
-    <div class="feature-table-cell fadeIn animated">
+        <div class="feature-table-cell fadeIn animated">
             <h1>{{ page.title }}</h1>
             {% if page.feature %}
             <a class="scroll scroll-down" type="button" href="#target">
@@ -33,7 +33,7 @@ layout: compress
             <div class="wrapper" id="target">
                 <div class="content animated fadeIn">
                     <div class="post-list">
-                        {% for post in site.posts %}
+                        {% for post in paginator.posts %}
                         {% if post.project == null %}
                         <ul>
                             <li class="wow fadeIn" data-wow-duration="1.5s">
@@ -45,6 +45,7 @@ layout: compress
                         </ul>
                         {% endif %}
                         {% endfor %}
+                        {% include pagination.html %}
                     </div>
                 </div>
             </div>

@@ -40,7 +40,7 @@ catalog : true
 
 <br/>
 
-nvidia 드라이버 설치를 `gnome tweak tool`에서 설정해도 된다고 들었지만 터미널로 급하게 할 때가 있기 때문에...
+nvidia 드라이버 설치를 `Software & updates`에서 설정해도 된다고 들었지만 터미널로 급하게 할 때가 있기 때문에...
 
 <br/>
 

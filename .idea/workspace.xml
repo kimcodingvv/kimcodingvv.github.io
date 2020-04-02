@@ -11,12 +11,6 @@
   <component name="ChangeListManager">
     <list default="true" id="5f2e02ed-c0e6-446d-9794-cee5c850b38d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-02-28-CF-623.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-02-28-CF-623.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-03-05-CF-Ozon-2020.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-03-05-CF-Ozon-2020.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-03-08-CF-626.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-03-08-CF-626.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-03-11-CF-ED-83.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-03-11-CF-ED-83.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-03-12-CF-CodeCraft-20.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-03-12-CF-CodeCraft-20.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-03-14-CF-627.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-03-14-CF-627.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -140,7 +134,7 @@
       <workItem from="1585395777786" duration="6431000" />
       <workItem from="1585422473737" duration="36000" />
       <workItem from="1585765435243" duration="10000" />
-      <workItem from="1585845621942" duration="4041000" />
+      <workItem from="1585845621942" duration="5509000" />
     </task>
     <servers />
   </component>

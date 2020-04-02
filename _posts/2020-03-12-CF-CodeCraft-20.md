@@ -3,7 +3,7 @@ layout : post
 title : "CodeCraft-20 (Div. 2)"
 category : [Codeforces]
 excerpt : "???"
-tags : [PS, Codeforces]
+tags : [PS, CodeCraft, Div.2]
 comments : true
 date : 2020-03-12 04:01
 feature: /assets/img/post/3.webp

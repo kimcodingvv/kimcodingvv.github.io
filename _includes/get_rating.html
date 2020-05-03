@@ -47,7 +47,7 @@
 
     function setHtmlWithoutColor(service) {
         var cf = document.getElementById(service);
-        cf.style.color = 'red';
+        cf.style.color = 'black';
         cf.href = url[service] + handles[service];
         cf.innerHTML = handles[service];
     }
@@ -55,7 +55,7 @@
     function getTopCoderRating() {
         $.ajax({
             type: 'GET',
-            url: 'http://api.topcoder.com/v2/users/'+handles['topcoder'],
+            url: 'https://api.topcoder.com/v2/users/'+handles['topcoder'],
             dataType: 'json',
             timeout: 10000,
             cache: false,
@@ -82,7 +82,7 @@
     function getCodeforcesRating() {
         $.ajax({
             type: 'GET',
-            url: 'http://codeforces.com/api/user.info?handles='+handles['codeforces'],
+            url: 'https://codeforces.com/api/user.info?handles='+handles['codeforces'],
             dataType: 'json',
             timeout: 10000,
             cache: false,

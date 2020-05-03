@@ -7,6 +7,8 @@ comments: false
 feature : assets/img/about.webp
 ---
 
+{% include get_rating.html %}
+
 ![](https://i.imgur.com/TaMvq4h.png)<br/>
 
 <center>
@@ -62,17 +64,25 @@ feature : assets/img/about.webp
 가톨릭대학교 알고리즘 소모임 ALCUK 4기 회장<br/><br/>
 
 </center>
-<div style="text-align : center">백준 - <a href="https://www.acmicpc.net/user/kimcoding">Kimcoding</a> / <a href="https://www.acmicpc.net/user/junghun1997">junghun1997</a></div>
 
-<div style="text-align : center">Codeforces - <a href="https://codeforces.com/profile/Kimcoding">Kimcoding</a></div>
+ 
 
-<div style="text-align : center">AtCoder - <a href="https://atcoder.jp/users/Kimcoding">Kimcoding</a></div>
+<p style="text-align: center">
 
-<div style="text-align : center">LeetCode - <a href="https://leetcode.com/kimcoding/">Kimcoding</a></div>
+백준 - <a href="https://www.acmicpc.net/user/kimcoding" style="text-decoration:none; font-weight : bold;">Kimcoding</a> / <a href="https://www.acmicpc.net/user/junghun1997" style="text-decoration:none; font-weight : bold;">junghun1997</a>
+<br/>
+Codeforces - <a id="codeforces" target="_blank" style="text-decoration:none; font-weight : bold;">Kimcoding</a>
+<br/>
+AtCoder - <a id="atcoder" target="_blank" style="text-decoration:none; font-weight : bold;">Kimcoding</a>
+<br/>
+LeetCode - <a href="https://leetcode.com/kimcoding/" style="text-decoration:none; font-weight : bold;">Kimcoding</a>
+<br/>
+Algospot - <a href="https://algospot.com/user/profile/33810" style="text-decoration:none; font-weight : bold;">junghun1997</a>
+<br/>
+Github - <a href="https://github.com/kimcodingvv" style="text-decoration:none; font-weight : bold;">kimcodingvv</a>
+<br/>
+</p>
 
-<div style="text-align : center">Algospot - <a href="https://algospot.com/user/profile/33810">junghun1997</a></div>
-
-<div style="text-align : center">Github - <a href="https://github.com/kimcodingvv">kimcodingvv</a></div>
 <br/>
 <center>
 아직 아는 것이 없어 github에 별거 없지만

@@ -54,6 +54,7 @@
 + Todo-list 구현
 + Mathjax 개선
 + 블로그가 뭔가 심심...
++ Get Rating cors error
 
 ---
 

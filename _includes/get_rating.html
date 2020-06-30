@@ -113,7 +113,7 @@
                     setHtmlWithoutColor('atcoder');
                 }
                 else{
-                    ratings['atcoder'] = json[4]['NewRating'];
+                    ratings['atcoder'] = json[json.length-1]['NewRating'];
                     setHtml('atcoder');
                 }
             },

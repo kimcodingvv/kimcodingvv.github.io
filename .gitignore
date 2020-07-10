@@ -1,11 +1,15 @@
-# Created by .ignore support plugin (hsz.mobi)
-_site
-.sass-cache
-.jekyll-metadata
+.env
+.vscode
+
+# Project dependencies
+.cache
 node_modules
-Gemfile
-Gemfile.lock
-*.DS_Store
-.bundle
-package.json
-.jekyll
+yarn-error.log
+
+# Build directory
+.DS_Store
+public/
+
+
+
+.idea/

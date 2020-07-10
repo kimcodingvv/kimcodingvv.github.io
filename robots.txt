@@ -1,4 +1,0 @@
-# Allow crawling of all content
-User-agent: *
-Allow : /
-Sitemap: https://kimcodingvv.github.io/_site/sitemap.xml
